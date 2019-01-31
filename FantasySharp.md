@@ -1,5 +1,3 @@
-#### [FantasySharpDevAPI](./FantasySharpDevAPI.md 'FantasySharpDevAPI')
-### [FantasySharp](./FantasySharpDevAPI.md#FantasySharp 'FantasySharp')
 ## API `type`
 FantasySharp API
 ### Methods
